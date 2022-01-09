@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "ChestSystemEditor Editor Win64 Development (ChestSystem)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "F:\\MiniGames\\Outscal\\Unreal\\Chest System\\ChestSystem\\.vscode\\compileCommands_ChestSystem.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
